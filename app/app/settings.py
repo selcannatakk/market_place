@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     # my apps
     'marketplace',
     'item',
+    'dashboard',
+
 ]
 
 MIDDLEWARE = [
